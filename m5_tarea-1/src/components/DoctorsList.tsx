@@ -1,5 +1,5 @@
 // Import necessary libraries
-import React, { useEffect, useState } from 'react';
+import { useEffect, useState } from 'react';
 import axios from 'axios';
 import DoctorProfile from './DoctorProfile';
 import { Doctor } from './DoctorProfile';
